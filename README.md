@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # REPOSITORIO DE DIEGO FABIAN ORDONEZ ONTANEDA
-![Imagen de Portada](gatito/Screenshot 2024-04-20 125158.jpg)
+![Imagen de Portada](gatito/gato.jpg)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características
