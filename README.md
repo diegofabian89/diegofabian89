@@ -29,5 +29,5 @@ Guía rápida sobre cómo utilizar el proyecto y ejemplos de código.
 ## Contribución
 Información sobre cómo contribuir al proyecto, directrices para enviar pull requests y reportar issues.
 ## Licencia
-Licencia bajo la cual se distribuye el proyecto.
+Licencia bajo la cual se distribuye el proyecto..
 
