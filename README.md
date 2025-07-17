@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Imagen de Portada](gatito/gato.jpg)
 ## Sobre mí
 
-Desarrollador en formación finalizando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Apasionado por la tecnología, la inteligencia artificial y el desarrollo de soluciones innovadoras que impacten positivamente en la educación, la salud y la automatización de procesos.
+Desarrollador en formación en Ingenieria Informatica, con  Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Apasionado por la tecnología, la inteligencia artificial y el desarrollo de soluciones innovadoras que impacten positivamente en la educación, la salud y la automatización de procesos.
 
 Con experiencia práctica en desarrollo backend y frontend, me enfoco en construir proyectos robustos, escalables y bien documentados. Interesado en el aprendizaje continuo, la colaboración y el desarrollo de productos útiles con impacto real.
 
